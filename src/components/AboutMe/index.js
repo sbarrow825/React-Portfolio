@@ -6,7 +6,7 @@ import Container from "../../components/Container";
 
 function AboutMe() {
     return (
-        <Container>
+        <Container className="container">
             <Row>
                 <Col classes="col-md-4">
                     <img className="ghProfile" src={"https://github.com/sbarrow825.png"} />

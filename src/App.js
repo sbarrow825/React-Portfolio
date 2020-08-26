@@ -1,4 +1,5 @@
 import React from 'react';
+import "./index.css"
 import AboutMe from "./components/AboutMe"
 import Assignments from "./components/Assignments"
 import Contact from "./components/Contact"
