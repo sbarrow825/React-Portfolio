@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import AboutMe from "./components/AboutMe"
 import Assignments from "./components/Assignments"
 import Contact from "./components/Contact"
@@ -17,7 +16,7 @@ function App() {
       <Projects />
       <Assignments />
       <Contact />
-      <Footer />      
+      <Footer />
     </div>
   )
 }
