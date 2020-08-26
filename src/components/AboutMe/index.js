@@ -17,6 +17,8 @@ function AboutMe() {
                     <p>My computer science classes at Berkeley and UC Berkeley Extension's full stack coding bootcamp program have equipped me with the neccessary skills to succeed in the tech world.</p>
                 </Col>
             </Row>
+            <br/>
+            <br/>
         </Container>
     )
 }

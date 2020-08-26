@@ -10,7 +10,7 @@ function Title(props) {
             <Container>
                 <Row>
                     <Col>
-                        <h1>{props.title}</h1>
+                        <h1 className="titleText">{props.title}</h1>
                     </Col>
                 </Row>
             </Container>

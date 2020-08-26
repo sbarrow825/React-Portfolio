@@ -9,6 +9,7 @@ import Container from "../../components/Container";
 
 function Jumbotron() {
     return (
+        
         <div className="jumbotron jumbotron-fluid">
             <Container>
                 <Row>
