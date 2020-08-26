@@ -1,0 +1,19 @@
+.jumbotron {
+    background-color: transparent;
+}
+
+.LinkedIn {
+    max-height: 8vh;
+}
+
+.GitHub {
+    max-height: 10vh;
+}
+
+.Gmail {
+    max-height: 9vh;
+}
+
+h1 {
+    text-align: center;
+}
