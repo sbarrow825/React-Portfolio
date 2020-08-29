@@ -6,7 +6,7 @@ import Title from "../../components/Title"
 
 function Contact() {
     return (
-    <Container>
+    <Container id="contact">
         <br></br>
         <br></br>
         <Title title="Contact Me" />

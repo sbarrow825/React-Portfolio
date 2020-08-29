@@ -11,7 +11,7 @@ import "./style.css"
 
 function Assignments() {
     return (
-        <Container>
+        <Container id="assignments">
             <Title title="Assignments" />
             <br></br>
             <Row>
