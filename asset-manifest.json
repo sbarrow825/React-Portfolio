@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.d77a8002.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.8e4257d1.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.8e4257d1.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.67dc4218.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.67dc4218.js.map",
+    "static/js/2.b33509bd.chunk.js": "/React-Portfolio/static/js/2.b33509bd.chunk.js",
+    "static/js/2.b33509bd.chunk.js.map": "/React-Portfolio/static/js/2.b33509bd.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.a3829f5ed52dc94dc2882db5634f4b92.js": "/React-Portfolio/precache-manifest.a3829f5ed52dc94dc2882db5634f4b92.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.d77a8002.chunk.css.map": "/React-Portfolio/static/css/main.d77a8002.chunk.css.map",
+    "static/js/2.b33509bd.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.b33509bd.chunk.js.LICENSE.txt",
+    "static/media/PropertyMover.png": "/React-Portfolio/static/media/PropertyMover.91c48f7c.png",
+    "static/media/PropertyMover.gif": "/React-Portfolio/static/media/PropertyMover.d0e8c647.gif",
+    "static/media/QUAN-Logo.png": "/React-Portfolio/static/media/QUAN-Logo.4d6575f4.png",
+    "static/media/QUANGif.gif": "/React-Portfolio/static/media/QUANGif.4468be9d.gif",
+    "static/media/WIP-Logo.jpg": "/React-Portfolio/static/media/WIP-Logo.4cf0dcb8.jpg",
+    "static/media/WIPGif.gif": "/React-Portfolio/static/media/WIPGif.defa0859.gif",
+    "static/media/employeeTracker.gif": "/React-Portfolio/static/media/employeeTracker.07f88876.gif",
+    "static/media/googleBooksReact.gif": "/React-Portfolio/static/media/googleBooksReact.ffa205e0.gif",
+    "static/media/workDayScheduler.gif": "/React-Portfolio/static/media/workDayScheduler.cc393511.gif",
+    "static/media/workoutTracker.gif": "/React-Portfolio/static/media/workoutTracker.4244e5b2.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67dc4218.js",
+    "static/js/2.b33509bd.chunk.js",
+    "static/css/main.d77a8002.chunk.css",
+    "static/js/main.8e4257d1.chunk.js"
+  ]
+}
