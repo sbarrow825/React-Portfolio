@@ -13,7 +13,7 @@ import "./style.css"
 
 function Projects() {
     return (
-        <Container>
+        <Container id="projects">
             <Title title={"Projects"} />
             <br></br>
             <Row>
