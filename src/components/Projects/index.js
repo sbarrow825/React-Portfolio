@@ -51,6 +51,8 @@ function Projects() {
                     <img src={PropertyMoverGif} className="PropertyMoverGif" alt="PropertyMover gif" />
                 </Col>
             </Row>
+            <br></br>
+            <br></br>
         </Container>
 
     )
