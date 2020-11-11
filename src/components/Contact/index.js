@@ -21,7 +21,7 @@ function Contact() {
                 <p><b>Additional Links</b></p>
                 <p><a href="https://github.com/sbarrow825">Github</a></p>
                 <p><a href="https://www.linkedin.com/in/sam-barrow">LinkedIn</a></p>
-                <p><a href="https://docs.google.com/document/d/1rQYdyvs1t3_zcwdfYIZCwLMnTUHyK5R_d6SX3lC6iY0/edit?usp=sharing">Resume</a></p>
+                <p><a href="https://docs.google.com/document/d/1_VqEn63WfhuPFgXeUL8y83ZFQnEIRXPxBphNy4j7K4w/edit?usp=sharing">Resume</a></p>
             </Col>
         </Row>
     </Container>
